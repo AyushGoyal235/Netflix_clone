@@ -1,4 +1,4 @@
-# Netflix Clone 🛒
+# Netflix Clone 
 
 This is a simple **Netflix Clone** website created using **HTML** and **CSS**. It replicates the basic layout and design of the Netflix homepage for practice purposes.
 
