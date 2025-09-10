@@ -12,6 +12,6 @@ Check out the live version here: [Netflix Clone Live](https://ayushgoyal235.gith
 
 ## Features
 
-- Responsive layout for desktop and mobile   
+- Responsive layout for desktop   
 - Hover effects on movie thumbnails  
 - Simple navigation bar and footer
